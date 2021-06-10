@@ -6,5 +6,6 @@ At this time the following design patterns have been implemented:
 
 * Singleton
 * Builder
+* Factory
 
 Take a look at: [Ronaldo Afonso's blog](http://www.ronaldoafonso.com.br/)
